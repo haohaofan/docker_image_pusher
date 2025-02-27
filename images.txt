@@ -2,3 +2,5 @@ fauria/vsftpd
 mysql:8.0.30
 nginx:latest
 portainer/portainer:latest
+bitnami/minio:latest
+redis:latest
