@@ -5,3 +5,4 @@ nginx:latest
 portainer/portainer:latest
 bitnami/minio:latest
 redis:latest
+eclipse-temurin:8-jre
