@@ -7,4 +7,5 @@ bitnami/minio:latest
 redis:latest
 eclipse-temurin:8-jre
 nacos-server:v2.2.0-slim
+amazoncorretto:21
 
