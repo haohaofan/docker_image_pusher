@@ -6,6 +6,5 @@ portainer/portainer:latest
 bitnami/minio:latest
 redis:latest
 eclipse-temurin:8-jre
-nacos/nacos-server:v2.2.0-slim
 amazoncorretto:21.0.9
 
