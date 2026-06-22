@@ -5,6 +5,5 @@ nginx:latest
 portainer/portainer:latest
 bitnami/minio:latest
 redis:latest
-eclipse-temurin:8-jre
-amazoncorretto:21.0.9
-
+gitlab/gitlab-ce:latest
+sonatype/nexus3:latest
