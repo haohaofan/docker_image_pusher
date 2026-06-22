@@ -1,7 +1,6 @@
 mysql:8.0.30
 nginx:latest
 portainer/portainer:latest
-bitnami/minio:latest
 redis:latest
 gitlab/gitlab-ce:latest
 sonatype/nexus3:latest
