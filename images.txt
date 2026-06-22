@@ -1,7 +1,1 @@
-mysql:8.0.30
-nginx:latest
-portainer/portainer:latest
-redis:latest
-gitlab/gitlab-ce:latest
-gitlab/gitlab-ce:16.7.0
-sonatype/nexus3:latest
+gitlab/gitlab-ce:18.11.0
