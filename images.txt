@@ -1,1 +1,2 @@
+bitnami/kafka:3.7
 gitlab/gitlab-ce:16.7.9-ce.0
