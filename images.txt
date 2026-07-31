@@ -1,3 +1,4 @@
+provectuslabs/kafka-ui:latest
 rabbitmq:4.3-management
 apache/rocketmq:5.3.0
 rabbitmq:3.13-management
