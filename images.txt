@@ -1,5 +1,1 @@
-provectuslabs/kafka-ui:latest
-rabbitmq:4.3-management
-apache/rocketmq:5.3.0
-rabbitmq:3.13-management
-gitlab/gitlab-ce:16.7.9-ce.0
+openjdk:21-jdk
